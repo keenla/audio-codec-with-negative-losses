@@ -7,15 +7,14 @@ Audio signal statistical analysis  concept idea for:
 audio compression, that may be considered to have "negative losses"; or output audio quality may be better, than contained in original data stream;
 (well, "The True Original Audio" ends at microphone membrane anyway)
 
-audio (music) conversion to note list and lyrics text, audio signal analogue to "optical character recognition"
+Audio (music) conversion to note list and lyrics text, audio signal analogue to "optical character recognition".
 
-"separating" single instruments or their sub-components (single drum, guitar string tone,…) from music stream and option to edit/replace/move_around and re-inject modified data
+"Separating" single instruments or their sub-components (single drum, guitar string tone,…) from music stream and option to edit/replace/move_around that whole instrument, and re-inject modified data.
+Processes, that may be called "singers voice swap" and ""edit song lyrics" in existing audio stream".
 
-processes, that may be called "singers voice swap" and ""edit song lyrics" in existing audio stream"
+Mechanical world usage: failure analysis and signalization/localisation of misbehaving elements in various systems (production lines, cars, planes, rockets, buildings…).
 
-mechanical world usage: failure analysis and signalization/localisation of misbehaving elements in various systems (production lines, cars, planes, rockets, buildings…)
-
-visualization of (option to be frequency-filtered) audio source directions as overlay layer in military or law enforcement FPV-optical devices; "replay function": rewind audio data of environment and locate precise direction of a gunshots, explosions; or in infra-sound weapon usage suspicions…
+Visualization of (option to be frequency-filtered) audio signals and it's source directions as overlay layer in military or law enforcement virtual reality devices; "replay function": rewind audio data of environment and locate precise direction of a gunshots, explosions; or in infra-sound weapon usage suspicions…
 
 _______________________________________________________________________________________________________
 Process:
