@@ -4,7 +4,8 @@ extracting wave signal information from audio data and using it in codec/audio e
 _______________________________________________________________________________________________________
 
 Audio signal statistical analysis  concept idea for:
-audio compression, that may be considered to have "negative losses", thus output audio quality may be better, than originals; in everyday life it's also known as: audio codec
+audio compression, that may be considered to have "negative losses"; or output audio quality may be better, than contained in original data stream;
+(well, "The True Original Audio" ends at microphone membrane anyway)
 
 audio (music) conversion to note list and lyrics text, audio signal analogue to "optical character recognition"
 
